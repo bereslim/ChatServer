@@ -1,37 +1,37 @@
 {
   "server": {
-    "port": 3000
+    "port": 8080
   },
-  "project": "chatbot-411814",
-  "translate" : {
-    "token" : "AIzaSyBsl52dVRafViwI4wWHWiFraNPErSoblDg"
+  "project": "central-lock-443514-e3",
+  "translate": {
+    "token": "xxx"
   },
-  "places" : {
-    "token" : "AIzaSyA2YFFoVxUVrv_E-r1_Q8m99WIR4VLZIk4"
+  "places": {
+    "token": "xxx"
   },
-  "openai" : {
-    "token" : "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"
+  "openai": {
+    "token": "xxx"
   },
-  "dialogFlow" : {
-    "webhook" : {
-      "token": "Ym9sbGVrZTpkZWdyb3RlYmVlcg=="
+  "dialogFlow": {
+    "webhook": {
+      "token": "xxx"
     },
-    "keyFile" : {
+    "keyFile": {
       "type": "service_account",
-      "project_id": "chatbot-411814",
-      "private_key_id": "0490506cd487dc1c9768baa35158875ea5305553",
-      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDsrAFMWhCMeMU\nuLwa2keTXBh+KJaFhTRcveagjUyJw0qZZz9c/PX6VjZU3MvAgqnPqk75PHtxBnWM\nFi+cTuWoEpIlTt/41rWUEyfr0Uw1T1j1etFRyCbdWCaXRGL/GAeMREkGimUyjKu2\nB9gCvMO15y3sesqJyjDLpXZKaHdGJuV0L00Dq7VIO5L5zQT0OF0iVPgu6u14mJcZ\ne4oW7fyDxS5QJOK56PJ5eCsc+dAYarRtkRJozdhH2qOt0q0X49h+Ycy8QfV0HjOc\nZm+s08aed/uWojb+yJsSCXSFj0Dz5eWiz72MCexB7LoT6sCqlun0d6ZEY4P6vKwp\niuNpCMRfAgMBAAECggEAHn5ldymvuUDUxZHTncuNg6TCHEZuzfdnpVvh5/qchorr\nwOOZt/+ixJNSe/67sQ+rLjS3gZavFXmQL3f1i0Gv/3SFWVLlC31JZf1mJxTB7zyh\n+/5bR4cMp0jpGoEJe/5ejrjFOEOwaSQKTZ8DRcnsJRgUy9iGXtomqFTsDcQhcciv\n0T5Eb0niBWWNE+DMb5KXouWwNEbGRXxDUbbDv5dkYvyedA5VjKj3zYHza5Sjofto\nKv6uI2eW9s1gyXCy1Bf6hRxGkV2OaxlBCDmkxExEFRpu162+4G4xrutLA51ZMYrC\nne9zU17iInvKZ4mEf6hZ7OB35SSIAlHCXnkr/n6loQKBgQDzQY5u4sVZulgL2GJr\nqQE2yTufpDRTlwdORRMkzROa5I3X8BCoMlBjtUTyQr1FaiHlWaOhUaAqCwNO9nQp\nnYV8UpdoD22Z4TFdEP07yXg2bU1u0pHJr8OeoqRBFIkCqVg0NhAkfoDaPSiLSQds\nxpE2UV13s+IRLDMBdHDAs/G5FQKBgQDN802ZGdKSHxi2H5B+nI/pi2dIDDFfg9kP\nhgqaRkPFInMqPNzv822HSLf2O2aTihwIX90rP1hWib4sIoZqfWgfE6ebLuHMxF5Y\nXNEP10yDOOyumwmLVhyytKkJwTwR/3MEIjFgoMhn61lEq023u/3XNCOWm9Nxod8V\nSwYE1YM8owKBgBlpGbXfnnn3C0eBfRZ9+xB8COxuPMEWn76/XHaVrZyaj26lNzg6\nuUcRInikHB1qLsxEhuFNI4wAxoGzIQNP3yfTgNlv8yUF7yAnrCxYqWQWGuaevHfz\nEl454yqhOIa8pegeVaVaSZ+Cj/+sy0fDnlusODVO5yigE1vti/G1WmTZAoGBAJxO\n6LomSxbz2wF++1/c26zZTM310xM3MmsBxNJKOe1ItDd+cgD7tElU+6o6cyPPUm9Y\nsre8IAOuD1PX8ESqYXgUpsS01FNhRmmyKEnpkfyWG6x5psjF1ooba6AntLvEMTsV\n6Hv6C6Azk1D24slsOMA4pjoMknJP9MxoYG0Sz8QZAoGAOsKnU+tuiqCk9GYU5Qoi\nZCQhDyZui1OS0QfBpQoUTJkZgA7/efFIhGQiDK91vA4cAGg8C9VnyQg0Ov42JHGk\n4UXByKaiWcKKmcu0JqIoVnZ4WhvAaeRa+XGkzUxMoPnEHDjB5l2gsX/0K/UeqIUn\nQ/GdFZ2zUL7lHZwTq5q7l8w=\n-----END PRIVATE KEY-----\n",
-      "client_email": "dialogflow@chatbot-411814.iam.gserviceaccount.com",
-      "client_id": "101843884789721028520",
+      "project_id": "central-lock-443514-e3",
+      "private_key_id": "ecb77e7883a36c051f533504dac5a867565c6d18",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDkcroEjfpfnGcN\n+uYeWEQo82uvO4j9t3A6RescPvE1RM0kOygm6VYfexzl3TB+tGn9P/VPxs7fxhgE\nT/tTX4ZzYRVlCyYom7gH0U9U/lr2RLqL3SOeqggnkFQqAyhkIy3hndkfY/K1LYky\nsYHNvongZ4uWqJDGzaQB/wL9/tdt+xZUH5/yWSB9ikWuBMADDIW2y1udwWVZdOUw\nTmyjzDITdakzh8bfwXE6c54O0rI/aV8mVyqzZyhh0C8jEAPBHHq55o6Qch+skk4t\nwuuMT/g1wZgLXWGcb8vhF3LTTpE4rJWCsJVH/MwiBAskKKHE19Nawo3UmHtPlTVJ\nhOE4FiGhAgMBAAECggEAVj0JA9clARrlvF1OqX3gnSTnLctnt3+cGiNy0cLhA57p\nYhgC3E2ReWjcS9noCKzKphOS437FcawyPM6ErcCN3Nh1XyOKUCIYorrdG9S5OeZQ\nFaRxYeAGHAlb/FAc21B8bYNNB5CPet2pwT1JJwYavl/YThNsM+BFXYuK8Z9Wa+l6\nd3tHz9HGo2V9g5Mk2qW9dEW14d4x+c6LYYZMfE/EqxVY5PvzeykAQ58wwwWg+JXZ\nAU51ycCw7u1Zq6u1rxMlgrlLfXKBVpEEUgoiYyM96pbaM0fBDiAXQ7Z03RSKY7W5\n58VZYMBGOgXjrS0jyUS4Yt47Fojagkv5as2l8xnTkQKBgQD/KWXiu+9HNq8MlGSq\ngTPF6bduSpXOhF4ykLclCetXxLUXaCK8iKmlVIjAFb0TQ+JiF6yHJEr7GH0hSm4B\ngAXJ6o1XiJNBPGU2s3J3aHTU+RYs82DqNwNZtCx7fLZZw2bkpw5dQKGc2m5/t6R/\nhvlAu/rhZAhSPDoeq0v9a9Fe7wKBgQDlMtyDsGqG5ctcb8CHmihM9o9KKwVN/DJ/\n9fSYKUssuli4mDoySovxrmCJQ+THxUbRG//0OhGDApCDQqkyXM/IYhcM01NQFdZ5\nFhUjAGiunwFgzooPR5xSBGD240QoeN87lVGpQFVxJkN9u7qikY5CFCLgv9OTIHNt\nzIw+EBGIbwKBgQDGK43AyXst0M+lMn74WX4vQLRAyVaN3QoXtYM4Ffsc4F5Q/oSz\n7mPrTrsii/+bvcZNrttE3jAJ0dwlBdxn99kHF86MZDsRmGl3UWkeShcq7QWHBcKI\nRQ+qFJ/TjGlHT9ZS0Vf7nt2lp5PYR3VPwjFFUHmpoXpA/BubhChxetJSKwKBgCj3\neFbJd6D4/epdxyn1sfJft6joG6CezV/11GxGJTuvayBDhVNr46ulIXgnfIMAjfHe\ncVdz8aFbGf18MsXftPv6HGicdS3BWX53JfwFnLBpl1N4V1D32ccHJVW7tXkOccgy\nnlAEQcFht3qHzYo1PhotgzZs0yJfEIK1pvOI57ldAoGBAKZI1ZF3GTSemwCDfqT4\nmNUO/6RzEBB6j51vlL/GyqiJF7kUu4gpasUOZQERWpumLt3mAozHDjX4KW7tD+XV\n/SSCszepSlvZ6P2AeVQfRUZfBkf/x/N6FJTt3XuKoqjx9+dgwZ00U3r8dS+8xhpx\nO5h/8wk9aZnyDBZK/Qp2e5gr\n-----END PRIVATE KEY-----\n",
+      "client_email": "dialog-flow-service-account@central-lock-443514-e3.iam.gserviceaccount.com",
+      "client_id": "102274985767273270976",
       "auth_uri": "https://accounts.google.com/o/oauth2/auth",
       "token_uri": "https://oauth2.googleapis.com/token",
       "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow%40chatbot-411814.iam.gserviceaccount.com",
+      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialog-flow-service-account%40central-lock-443514-e3.iam.gserviceaccount.com",
       "universe_domain": "googleapis.com"
     },
-    "projectId" : "chatbot-411814",
-    "agentId"  : "7788c410-deee-4880-8b1d-95ed77a60438",
-    "location" : "global",
-    "languageCode" : "nl"
+    "projectId": "central-lock-443514-e3",
+    "agentId": "bereslimtest_1733995073078",
+    "location": "eu",
+    "languageCode": "en"
   }
 }
